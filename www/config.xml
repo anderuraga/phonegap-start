@@ -4,12 +4,12 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.helloworld"
-        version   = "1.0.0">
+        version   = "3.0.0">
 
-    <name>Phone Gap Builder</name>
+    <name>Surf Search Spot V3.0</name>
 
     <description>
-        Probando Phone Gap Builder
+        Probando Phone Gap Builder,para nueva version de SSS v3.0
     </description>
 
     <author href="https://github.com/anderuraga/phonegap-start.git" email="ander.uraga@gmail.com">
